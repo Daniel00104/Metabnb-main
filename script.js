@@ -9,3 +9,6 @@ openBtn.addEventListener('click', () => {
 closeBtn.addEventListener('click', () => {
     navMenu.classList.remove('open');
 });
+closeBtn.addEventListener('click', () => {
+    navMenu.classList.remove('open');
+});
